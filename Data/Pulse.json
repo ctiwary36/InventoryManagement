@@ -1,0 +1,10 @@
+[
+  {
+    "name": "tata",
+    "weight": 25.0,
+    "price": 150.0
+  },
+  {"name": "ahar","weight": 10.0,"price": 130.0},
+  {"name": "patanjali","weight": 20.0,"price": 140.0},
+  {"name": "shakti","weight": 15.0,"price": 135.0}
+]
